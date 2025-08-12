@@ -1,1 +1,1 @@
-Stroke predicyion using desiong-tree-
+Stroke prediction using desiong-tree-
